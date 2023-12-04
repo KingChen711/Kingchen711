@@ -3,7 +3,7 @@
 
 - 👨🏾‍🎓 I’m currently learing at **FPT HCMC**
 
-- 💬 Ask me about **nextjs/reactjs**
+- 💬 Ask me about anything, I am happy to help
 
 - 📫 How to reach me **Kingchenobama711@gmail.com**
 
