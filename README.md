@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.0.4/1710496760165/Microsoft.VisualStudio.Services.Icons.Default" alt="nextjs" width="40" height="40"/>
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -40,11 +40,11 @@
 </a>
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="expressjs" width="40" height="40"/>
 </a>
 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWgfKI7XoLzSOkRqlJIgAkgK6v5bm3oz7XCrdCan9mJAJRUZvNDKjVYWEwV6g_3gnR5EQ&usqp=CAU" alt="nestjs" width="40" height="40"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
