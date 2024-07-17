@@ -15,14 +15,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<p align="left">
+
+<div style="display: flex; gap:4px; flex-wrap: wrap;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
-
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 
+<a href="#" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/640px-C_Sharp_Logo_2023.svg.png" alt="typescript" width="40" height="40"/>
+</a>
+</div>
+
+<div style="display: flex; gap:4px; flex-wrap: wrap;">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
@@ -35,33 +42,79 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="expressjs" width="40" height="40"/>
-</a>
-
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWgfKI7XoLzSOkRqlJIgAkgK6v5bm3oz7XCrdCan9mJAJRUZvNDKjVYWEwV6g_3gnR5EQ&usqp=CAU" alt="nestjs" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_keG95kcun6Bg2BCPgHNt0b7Gi9ST3ylBP_xE9NM2RfVNqK=s900-c-k-c0x00ffffff-no-rj" alt="photoshop" width="40" height="40"/>
 </a>
+</div>
+
+<div style="display: flex; gap:4px; flex-wrap: wrap;">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="expressjs" width="40" height="40"/>
+</a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/>
+</a>
+<a href="#" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="nestjs" width="40" height="40"/>
+</a>
+
+<a href="https://unity.com/" target="_blank" >
+  <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="nestjs" width="40" height="40"/>
+</a>
+
+<a href="https://soliditylang.org/" target="_blank" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/512px-Ethereum-icon-purple.svg.png?20200227011040" alt="nestjs" width="40" height="40"/>
+</a>
+</div>
+
+
+<div style="display: flex; gap:4px; flex-wrap: wrap;">
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="#" rel="noreferrer">
+  <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="#" rel="noreferrer">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="#" rel="noreferrer">
+  <img src="https://lennox-it.uk/wp-content/uploads/2015/12/SQL-Server-20121.png" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="#" rel="noreferrer">
+  <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="#" rel="noreferrer">
+  <img src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+</div>
+
+<div style="display: flex; gap:4px; flex-wrap: wrap;">
+<a href="#" rel="noreferrer">
+  <img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" alt="firebase" width="40" height="40"/>
+</a>
+<a href="#" rel="noreferrer">
+  <img src="https://kb.pavietnam.vn/wp-content/uploads/2021/08/k8s-logo.png" alt="firebase" width="40" height="40"/>
+</a>
+<a href="#" rel="noreferrer">
+  <img src="https://www.pngmart.com/files/23/Aws-Logo-PNG-Picture.png" alt="firebase" width="40" height="40"/>
+</a>
+</div>
+
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingchen711&show_icons=true&locale=en&layout=compact" alt="kingchen711" /></p>
