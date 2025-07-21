@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Van</h1>
 <h3 align="center">A Web Developer from Viet Nam</h3>
 
-- 👨🏾‍🎓 I’m currently learing at **FPT HCMC**
-
 - 💬 Ask me about anything, I am happy to help
 
 - 📫 How to reach me **Kingchenobama711@gmail.com**
